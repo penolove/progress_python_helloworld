@@ -13,3 +13,8 @@ python example_2.py
 
 
 Processing |################################| 5/5
+
+
+
+more details please see here:
+https://github.com/verigak/progress/
